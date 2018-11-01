@@ -1,0 +1,44 @@
+@charset "utf-8";
+*{font-family: "微軟正黑體";}
+*{font-size: 32px;}
+.a1 {
+	font-size: 50px;
+	color: #F93;
+	font-family: "Arial Unicode MS";
+}
+.a2 {
+	font-size: 30px;
+	color: #FFF;
+	background-color: #000;
+	width: 200px;
+	font-family: "微軟正黑體";
+}
+.pic {
+	padding: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+}
+
+.a3 {
+	font-family: "微軟正黑體";
+	font-size: 24px;
+	color: #000;
+	height: 10px;
+	text-align: left;
+}
+.a4 {
+	font-family: "微軟正黑體";
+	font-size: 24px;
+	text-align: center;
+}
+
+.abc {
+	font-size: 12px;
+	float: right;
+	padding: 10px;
+}
+.a1 {
+	text-align: center;
+}

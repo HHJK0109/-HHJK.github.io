@@ -1,0 +1,19 @@
+@charset "utf-8";
+#head {
+	height: auto;
+	width: 1000px;
+	margin: auto;
+	padding: 40px;
+}
+#option {
+	height: 60px;
+	width: 1000px;
+	margin: auto;
+	padding-top: 30px;
+}
+#content {
+	height: 600px;
+	width: 1000px;
+	background-color: #C5F4FA;
+	margin: auto;
+}
